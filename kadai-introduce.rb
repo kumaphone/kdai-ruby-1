@@ -1,7 +1,7 @@
 #パターン１
 myouzi = '田中'
 namae = '太郎'
-nenrei = 25.to_s
+nenrei = 25
 
 puts myouzi + namae + 'です。' + nenrei + '歳です'
 
